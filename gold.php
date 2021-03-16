@@ -99,7 +99,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
         <div class="container mt-5">
             <div class="row">
                 <div class="col-md-4 sec-title">
-                    <h2>Why Tradegatespro <span>Gold </span>Investments</h2>
+                    <h2>Why Marketswave <span>Gold </span>Investments</h2>
                 </div>
                 <div class="col-md-6">
                     <p>Throughout history, gold has been seen as a special and valuable commodity. Today, owning gold can act as a hedge against inflation and deflation alike, as well as a good portfolio diversifier. As a global store of value, gold can also provide financial cover during geopolitical and macroeconomic uncertainty.

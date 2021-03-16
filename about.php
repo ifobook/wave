@@ -37,12 +37,12 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="content-column col-lg-6 col-md-12 col-sm-12 mb-0">
 							<div class="about-column">
 								<div class="sec-title">
-									<div class="title">about Tradegatespro</div>
+									<div class="title">about Marketsgate</div>
 									<h2>Leading <span>Financial</span> <br> <span>Investment</span> Company</h2>
 								</div>
 								<div class="text">
-									<p>Tradegatespro is located in the former rectory of St. Peter’s Episcopal Church. Over our 14 year history, we have treated patients from over 114 different countries in the world. This company is managed by the best hands in the field of investing, successfully handling trading and assets management with an enviable track record and 100% assurance of optimum output.</p>
-									<p>Investing is made very simple with Tradegatespro! It is time to build your own investment portfolio with a self-directed account and save on fees.</p>
+									<p>Marketsgate is located in the former rectory of St. Peter’s Episcopal Church. Over our 14 year history, we have treated patients from over 114 different countries in the world. This company is managed by the best hands in the field of investing, successfully handling trading and assets management with an enviable track record and 100% assurance of optimum output.</p>
+									<p>Investing is made very simple with Marketsgate! It is time to build your own investment portfolio with a self-directed account and save on fees.</p>
 								</div>
 								<div class="signature">Daniel <span>Daniel Jr</span></div>
 							</div>
@@ -81,8 +81,8 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<h2 class="text-center">Who we <span> are</span></span></h2>
 					</div>
 					<div class="col-md-6">
-						<p>Tradegatespro is backed by a team of world-class financial experts and the best technology talent. Our talented team of software engineers, designers, and data scientists have previously worked at such companies as Amazon, Google, and Apple.</p>
-						<p>Our Investment Advisory Committee are recognized thought leaders in the investment community. They play an advisory role in Tradegatespro's investment management process and serve as a sounding board for Tradegatespro's management team.</p>
+						<p>Marketsgate is backed by a team of world-class financial experts and the best technology talent. Our talented team of software engineers, designers, and data scientists have previously worked at such companies as Amazon, Google, and Apple.</p>
+						<p>Our Investment Advisory Committee are recognized thought leaders in the investment community. They play an advisory role in Marketsgate's investment management process and serve as a sounding board for Marketsgate's management team.</p>
 
 					</div>
 				</div>
@@ -202,7 +202,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 							</div>
 							<div class="lower-box mt-0">
 
-								<div class="designation">CEO, Tradegatespro Foundation</div>
+								<div class="designation">CEO, Marketsgate Foundation</div>
 							</div>
 						</div>
 					</div>
@@ -260,7 +260,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="inner-box">
 							<div class="quote icofont-quote-right"></div>
 							<div class="author">Ryan Betthalyn</div>
-							<div class="text">Tradegatespro is going beyond providing a tech platform...it also gives users access to its own stable of financial advisors</div>
+							<div class="text">Marketsgate is going beyond providing a tech platform...it also gives users access to its own stable of financial advisors</div>
 						</div>
 					</div>
 
@@ -287,7 +287,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="inner-box">
 							<div class="quote icofont-quote-right"></div>
 							<div class="author">Tyler John</div>
-							<div class="text">Tradegatespro made it easy for me be able to have my dream business. I can boldly call myself a business owner.</div>
+							<div class="text">Marketsgate made it easy for me be able to have my dream business. I can boldly call myself a business owner.</div>
 						</div>
 					</div>
 

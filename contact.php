@@ -30,7 +30,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="column col-lg-6 col-md-6 col-sm-12">
 							<h2>Brooklyn, <span>New York</span></h2>
 							<div class="text">849 Diamond Str, 07th Floor, NY 10012, New York, <br> United State America</div>
-							<div class="email">Email: <a href="mailto:hello@tradegatespro.com">hello@tradegatespro.com</a></div>
+							<div class="email">Email: <a href="mailto:support@marketswave.com">support@marketswave.com</a></div>
 						</div>
 
 						<!-- Column -->

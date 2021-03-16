@@ -45,9 +45,9 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 							<!-- Content Column -->
 							<div class="content-column col-lg-7 col-md-12 col-sm-12">
 								<div class="inner-column">
-									<div class="title text-white">MARKETSWAVE</div>
+									<div class="title text-white">  MARKETSWAVE</div>
 									<h1><span>Investing</span> Made Easy</h1>
-									<div class="text text-white">Powerful technology + human help <br> People love us for our technology. And the team <br> who are always around to answer your questions.</div>
+									<div class="text text-white">Powerful financial tools to help you grow and manage your money.</div>
 									<div class="btn-box">
 										<a href="<?= ROOT ?>register" class="theme-btn btn-style-one"><span class="txt">GET STARTED</span></a>
 									</div>
@@ -128,12 +128,12 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="content-column col-lg-6 col-md-12 col-sm-12 mb-0">
 							<div class="about-column">
 								<div class="sec-title">
-									<div class="title">about Tradegatespro</div>
+									<div class="title">about Marketswave</div>
 									<h2>Leading <span>Financial</span> <br> <span>Investment</span> Company</h2>
 								</div>
 								<div class="text">
-									<p>Tradegatespro is located in the former rectory of St. Peter’s Episcopal Church. Over our 14 year history, we have treated patients from over 114 different countries in the world. This company is managed by the best hands in the field of investing, successfully handling trading and assets management with an enviable track record and 100% assurance of optimum output.</p>
-									<p>Investing is made very simple with Tradegatespro! It is time to build your own investment portfolio with a self-directed account and save on fees.</p>
+									<p>Marketswave is located in the former rectory of St. Peter’s Episcopal Church. Over our 14 year history, we have treated patients from over 114 different countries in the world. This company is managed by the best hands in the field of investing, successfully handling trading and assets management with an enviable track record and 100% assurance of optimum output.</p>
+									<p>Investing is made very simple with Marketswave! It is time to build your own investment portfolio with a self-directed account and save on fees.</p>
 								</div>
 								<div class="signature">Daniel <span>Daniel Jr</span></div>
 							</div>
@@ -149,7 +149,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 		<div class="services-section">
 			<div class="auto-container">
 				<div class="sec-title">
-					<div class="title">why Tradegatespro</div>
+					<div class="title">why Marketswave</div>
 					<h2><span>Best Solutions</span> For Your Investment</h2>
 				</div>
 				<div class="inner-container">
@@ -380,7 +380,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="inner-box">
 							<div class="quote icofont-quote-right"></div>
 							<div class="author">Ryan Betthalyn</div>
-							<div class="text">Tradegatespro is going beyond providing a tech platform...it also gives users access to its own stable of financial advisors</div>
+							<div class="text">Marketswave is going beyond providing a tech platform...it also gives users access to its own stable of financial advisors</div>
 						</div>
 					</div>
 
@@ -407,7 +407,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="inner-box">
 							<div class="quote icofont-quote-right"></div>
 							<div class="author">Tyler John</div>
-							<div class="text">Tradegatespro made it easy for me be able to have my dream business. I can boldly call myself a business owner.</div>
+							<div class="text">Marketswave made it easy for me be able to have my dream business. I can boldly call myself a business owner.</div>
 						</div>
 					</div>
 
@@ -504,7 +504,7 @@ require_once(APP_ROOT . DS . 'includes' . DS . 'header.php');
 						<div class="inner-column">
 							<div class="sec-title">
 								<div class="title">Don't just take our word for it.</div>
-								<h2>Join over <span> 740K</span> people who use Tradegatespro</h2>
+								<h2>Join over <span> 740K</span> people who use Marketswave</h2>
 							</div>
 							<div class="blocks-outer">
 

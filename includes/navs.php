@@ -8,7 +8,7 @@
                 <div class="top-left">
                     <!-- Info List -->
                     <ul class="info-list">
-                        <li><a href="mailto:hello@tradegatespro.com"><span class="icon icofont-envelope"></span> hello@tradegatespro.com</a></li>
+                        <li><a href="mailto:support@marketswave.com"><span class="icon icofont-envelope"></span> support@marketswave.com</a></li>
                         <li><a href="tel:+1212-226-3126"><span class="icon icofont-phone"></span> +1212-226-3126</a></li>
                         <li> <div id="google_translate_element"></div></li>
                     </ul>
